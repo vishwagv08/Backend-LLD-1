@@ -38,8 +38,8 @@ public class Client {
 
 
         // next
-        // add reexam object to exam and follow thr above
-        // as per current constructor of reexam. it again shallow copies
+        // add re-exam object to exam and follow thr above
+        // as per current constructor of re-exam. it again shallows copies
 
         // To make this work correctly, modify the copy constructor of EXAM class
 
