@@ -20,7 +20,7 @@ public class Client {
         t3.setName("SyncPrinter-2");
 
         t2.start();
-        t3.start(); // when t2 is running t3 will be in blocked status as both are call syncronised method
+        t3.start(); // when t2 is running t3 will be in blocked status as both are call synchronised method
 
         t3.join();
 //        ------------------------------------
