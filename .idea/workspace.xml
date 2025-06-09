@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fca1042-5b41-45e5-8bb1-f22dd2adba58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L6_Concruency1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L6_Concruency1/HelloWorldPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L6_Concruency1/NumberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L6_Concruency1/SyncPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L2_CopyConstructor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L2_CopyConstructor/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L3_L4_L5_lap/PracticeRepoPath.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L3_L4_L5_lap/PracticeRepoPath.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +31,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2y6IRTl2lAt7YYVxqXgVr0qYKk7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -53,12 +60,30 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.L6_Concruency1.Client" />
+      <module name="Backend-LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.L6_Concruency1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Backend-LLD-1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -77,7 +102,7 @@
       <updated>1749148193613</updated>
       <workItem from="1749148194812" duration="5498000" />
       <workItem from="1749155501634" duration="134000" />
-      <workItem from="1749216366551" duration="16318000" />
+      <workItem from="1749216366551" duration="18602000" />
     </task>
     <servers />
   </component>
