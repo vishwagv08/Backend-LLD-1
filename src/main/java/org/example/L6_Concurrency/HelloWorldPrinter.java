@@ -1,4 +1,4 @@
-package org.example.L6_Concruency1;
+package org.example.L6_Concurrency;
 
 public class HelloWorldPrinter implements Runnable {
 
